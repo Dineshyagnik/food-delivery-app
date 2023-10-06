@@ -5,7 +5,7 @@ const Card = () => {
         <div>
             <div>
                 <div className="card mt-3" style={{ width: "18rem", maxHeight: '360px' }}>
-                    <img style={{height:'200px'}} src="https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/216054.jpg?resize=1200:*" className="card-img-top" alt="..." />
+                    <img style={{ height: '200px' }} src="https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/216054.jpg?resize=1200:*" className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>
                         <p className="card-text">This is some Important text.</p>
