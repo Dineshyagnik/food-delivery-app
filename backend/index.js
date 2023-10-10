@@ -4,7 +4,7 @@ const port = 5000
 const mongoDB = require('./db')
 mongoDB();
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Food Delivery App')
 })
 
 app.listen(port, () => {
